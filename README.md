@@ -4,7 +4,7 @@
 
 #### Link to Deployed application
 
-URL - [Lightning-CLI](https://dammyy.github.io/virtual-keyboard/).
+URL - [https://dammyy.github.io/virtual-keyboard/](https://dammyy.github.io/virtual-keyboard/).
 
 ### Getting started
 
