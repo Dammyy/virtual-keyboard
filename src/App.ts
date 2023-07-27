@@ -71,7 +71,6 @@ export class App
     let start = 97 // ASCII code
     const end = 122
     const spaceKey = String.fromCharCode(32)
-    // static vs dynamic variable
 
     let i = 1
     while (i <= 3) {
