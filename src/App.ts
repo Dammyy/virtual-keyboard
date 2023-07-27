@@ -9,14 +9,6 @@ interface AppTemplateSpec extends Lightning.Component.TemplateSpec {
 
 type IndexType = { i: number; j: number }
 type MatrixType = number[][] | string[][]
-type TagType = (objectName: string) => any
-
-interface InitSpec {
-  currentIndexMatrix: IndexType
-  input: string
-  matrix: MatrixType
-  tag: TagType
-}
 
 export class App
   extends Lightning.Component<AppTemplateSpec>
@@ -58,7 +50,6 @@ export class App
   }
 
   override _init() {
-    // this.currentIndexMatrix = { i: 0, j: 0 }
     this.input = ''
     this.matrix = [[]]
     const arr = []
