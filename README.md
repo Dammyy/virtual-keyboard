@@ -2,6 +2,10 @@
 
 ## com.domain.app.virtualkeyboard
 
+#### Link to Deployed application
+
+URL - [Lightning-CLI](https://dammyy.github.io/virtual-keyboard/).
+
 ### Getting started
 
 > Before you follow the steps below, make sure you have the
