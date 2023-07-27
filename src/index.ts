@@ -1,5 +1,5 @@
 import { Lightning, Launch, PlatformSettings, AppData } from '@lightningjs/sdk'
-import { App } from './App.js'
+import { App } from './App'
 
 export default function (
   appSettings: Lightning.Application.Options,
